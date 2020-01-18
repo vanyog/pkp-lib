@@ -23,7 +23,7 @@
 	<message key="user.dateLastLogin">Last login</message>
 	<message key="user.dateRegistered">Date registered</message>
 	<message key="user.editMyProfile">Редактиране на моя профил</message>
-	<message key="user.email">Email</message>
+        <message key="user.email">Имейл</message>
 	<message key="user.fax">Fax</message>
 	<message key="user.feminine">F</message>
 	<message key="user.firstName">First name</message>
@@ -49,9 +49,9 @@
 	<message key="user.login.lostPassword.invalidUser">No user exists with the specified email address.</message>
 	<message key="user.login.lostPassword.passwordSent">A new password has been sent to your email address. You may now login to the site with your new password.</message>
 	<message key="user.login.registeredEmail">Имейл на регистриран потребител</message>
-	<message key="user.login.rememberUsernameAndPassword">Припомняне на моето потребителско име и парола</message>
-	<message key="user.login.resetPassword">Възстановяване на парола</message>
-	<message key="user.logOut">Изход</message>
+        <message key="user.login.rememberUsernameAndPassword">Запомняне на моето потребителско име и парола</message>
+        <message key="user.login.resetPassword">Установяване на парола</message>
+        <message key="user.logOut">Излизане</message>
 	<message key="user.mailingAddress">Mailing address</message>
 	<message key="user.masculine">M</message>
 	<message key="user.middleName">Middle name</message>
@@ -61,7 +61,7 @@
 	<message key="user.password">Парола</message>
 	<message key="user.phone">Phone</message>
 	<message key="user.profile.changePasswordInstructions">Enter your current and new passwords below to change the password for your account.</message>
-	<message key="user.profile.editProfile">Edit Profile</message>
+        <message key="user.profile.editProfile">Редактиране на профил</message>
 	<message key="user.profile.form.emailRequired">A valid email address is required.</message>
 	<message key="user.profile.form.affiliationRequired">An affiliation is required.</message>
 	<message key="user.profile.form.firstNameRequired">A first name is required.</message>
@@ -94,8 +94,8 @@
 	<message key="user.role.readers">Readers</message>
 	<message key="user.role.reviewer">Reviewer</message>
 	<message key="user.role.reviewers">Reviewers</message>
-	<message key="user.role.siteAdmin">Администратор на сайта</message>
-	<message key="user.role.siteAdmins">Site Administrators</message>
+        <message key="user.role.siteAdmin">Администратор на сайт</message>
+        <message key="user.role.siteAdmins">Администратори на сайт</message>
 	<message key="user.roles">Roles</message>
 	<message key="user.salutation">Salutation</message>
 	<message key="user.sendPassword">Confirmation</message>

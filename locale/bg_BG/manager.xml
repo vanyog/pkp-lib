@@ -100,7 +100,7 @@
 	<message key="manager.people.createUserSendNotify">Send the user a welcome email containing their username and password.</message>
 	<message key="manager.people.disable">Disable</message>
 	<message key="manager.people.doNotEnroll">With no role</message>
-	<message key="manager.people.editProfile">Edit Profile</message>
+        <message key="manager.people.editProfile">Редактиране на моя профил</message>
 	<message key="manager.people.editUser">Edit User</message>
 	<message key="manager.people.emailUsers.emailSelectedUsers">Email selected users</message>
 	<message key="manager.people.emailUsers.emailUsersEnrolledAs">Email users enrolled as</message>
