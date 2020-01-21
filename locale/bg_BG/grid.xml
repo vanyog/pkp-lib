@@ -14,13 +14,13 @@
 
 <locale name="bg_BG" full_name = "Български">
 	<!-- Common -->
-	<message key="grid.noItems">No Items</message>
+        <message key="grid.noItems">Няма елементи</message>
 	<message key="grid.settings">Settings</message>
 
 	<message key="grid.action.sort">Sort</message>
 	<message key="grid.action.addItem">Add Item</message>
-	<message key="grid.action.delete">Delete</message>
-	<message key="grid.action.edit">Edit</message>
+        <message key="grid.action.delete">Изтриване</message>
+        <message key="grid.action.edit">Редактиране</message>
 	<message key="grid.action.restoreDefaults">Restore Defaults</message>
 
 	<!-- Common Grid Column Titles -->

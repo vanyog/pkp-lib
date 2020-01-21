@@ -32,7 +32,7 @@
 	<message key="announcement.viewLink">More...</message>
 	<message key="announcement.view">View Announcement</message>
 	<message key="common.refresh">Refresh</message>
-	<message key="common.action">Action</message>
+        <message key="common.action">Действие</message>
 	<message key="common.active">Active</message>
 	<message key="common.add">Add</message>
 	<message key="common.addSelf">Add Self</message>
@@ -86,14 +86,14 @@
 	<message key="common.dateUploaded">Date uploaded</message>
 	<message key="common.day">Day</message>
 	<message key="common.default">Default</message>
-	<message key="common.delete">Delete</message>
+        <message key="common.delete">Изтриване</message>
 	<message key="common.deleteSelection">Delete Selection</message>
 	<message key="common.description">Description</message>
 	<message key="common.disabled">Disabled</message>
 	<message key="common.discipline">Discipline</message>
 	<message key="common.done">Done</message>
 	<message key="common.download">Download</message>
-	<message key="common.edit">Edit</message>
+        <message key="common.edit">Редактиране</message>
 	<message key="common.enabled">Enabled</message>
 	<message key="common.error.databaseError">A database error has occurred: {$error}</message>
 	<message key="common.error.databaseErrorUnknown">An unknown database connection error has occurred.</message>
@@ -136,7 +136,7 @@
 	<message key="common.on">On</message>
 	<message key="common.ok">OK</message>
 	<message key="common.options">Options</message>
-	<message key="common.order">Order</message>
+        <message key="common.order">Ред</message>
 	<message key="common.originalFileName">Original file name</message>
 	<message key="common.or">or</message>
 	<message key="common.other">Other</message>
@@ -212,7 +212,7 @@
 	<message key="email.skip">Skip Email</message>
 	<message key="email.subject">Subject</message>
 	<message key="email.to">To</message>
-	<message key="form.errorsOccurred">Errors occurred processing this form</message>
+        <message key="form.errorsOccurred">Възникна грешка при обработка на този формуляр</message>
         <message key="form.formLanguage.description">За да въвеждате по-надолу информация на друг език, първо изберете език.</message>
         <message key="form.formLanguage">Език на формуляра</message>
 	<message key="form.contains">contains</message>
@@ -238,8 +238,8 @@
 	<message key="help.upALevel">Up a Level</message>
 	<message key="icon.checked.alt">Checked</message>
 	<message key="icon.comment.alt">Comment</message>
-	<message key="icon.delete.alt">Delete</message>
-	<message key="icon.edit.alt">Edit</message>
+        <message key="icon.delete.alt">Изтриване</message>
+        <message key="icon.edit.alt">Редактиране</message>
 	<message key="icon.folder.alt">Folder</message>
 	<message key="icon.font_large.alt">Large</message>
 	<message key="icon.font_medium.alt">Medium</message>
@@ -258,7 +258,7 @@
         <message key="navigation.home">Начало</message>
         <message key="navigation.infoForReaders">За читателите</message>
         <message key="navigation.infoForReaders.long">Информация за читателите</message>
-	<message key="navigation.items">{$from} - {$to} of {$total} Items</message>
+        <message key="navigation.items">{$from} - {$to} от {$total} предмети</message>
         <message key="navigation.login">Влизане</message>
 	<message key="navigation.nextPage"><![CDATA[&gt;&gt;]]></message>
         <message key="navigation.nextStep">Следваща стъпка</message>

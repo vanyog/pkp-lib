@@ -19,7 +19,7 @@
 	<message key="manager.announcements.createTitle">Create</message>
 	<message key="manager.announcements.dateExpire">Expiry</message>
 	<message key="manager.announcements.edit">Edit Announcement</message>
-	<message key="manager.announcements.editTitle">Edit</message>
+        <message key="manager.announcements.editTitle">Редактиране</message>
 	<message key="manager.announcements.form.dateExpireDayIncompleteDate">Please select a year and/or month in addition to the expiry date day.</message>
 	<message key="manager.announcements.form.dateExpire">Expiry Date</message>
 	<message key="manager.announcements.form.dateExpireInstructions">The announcement will be displayed to readers until this date. Leave blank if the announcement should be displayed indefinitely.</message>
@@ -45,7 +45,7 @@
 	<message key="manager.announcementTypes.create">Create Announcement Type</message>
 	<message key="manager.announcementTypes.createTitle">Create</message>
 	<message key="manager.announcementTypes.edit">Edit Announcement Type</message>
-	<message key="manager.announcementTypes.editTitle">Edit</message>
+        <message key="manager.announcementTypes.editTitle">Редактиране</message>
 	<message key="manager.announcementTypes.form.saveAndCreateAnother">Save and Create Another</message>
 	<message key="manager.announcementTypes.form.typeNameExists">An announcement type with this name already exists.</message>
 	<message key="manager.announcementTypes.form.typeName">Name</message>
