@@ -50,7 +50,7 @@ class UserEmailForm extends Form {
 	 * @copydoc Form::Fetch
 	 */
 	function fetch($request, $template = null, $display = false) {
-		$userDao = DAORegistry::getDAO('UserDAO');
+		$userDao = DAORegistry::getDAO('UserDAO'); /* @var $userDao UserDAO */
 		$user = $userDao->getById($this->userId);
 
 		$templateMgr = TemplateManager::getManager($request);
@@ -65,9 +65,10 @@ class UserEmailForm extends Form {
 
 	/**
 	 * Send the email
+	 * @copydoc Form::execute()
 	 */
-	function execute() {
-		$userDao = DAORegistry::getDAO('UserDAO');
+	function execute(...$functionArgs) {
+		$userDao = DAORegistry::getDAO('UserDAO'); /* @var $userDao UserDAO */
 		$toUser = $userDao->getById($this->userId);
 		$request = Application::get()->getRequest();
 		$fromUser = $request->getUser();
@@ -80,6 +81,9 @@ class UserEmailForm extends Form {
 		$email->setSubject($this->getData('subject'));
 		$email->setBody($this->getData('message'));
 		$email->assignParams();
+
+		parent::execute(...$functionArgs);
+
 		if (!$email->send()) {
 			import('classes.notification.NotificationManager');
 			$notificationMgr = new NotificationManager();
