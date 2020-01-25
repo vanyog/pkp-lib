@@ -33,7 +33,7 @@ msgid "grid.action.sort"
 msgstr "Sort"
 
 msgid "grid.action.addItem"
-msgstr "Add Item"
+msgstr "Добавяне на елемент"
 
 msgid "grid.action.addNote"
 msgstr "Add Note"
@@ -105,10 +105,10 @@ msgid "grid.action.moreInformation"
 msgstr "More Information"
 
 msgid "grid.action.restoreDefaults"
-msgstr "Restore Defaults"
+msgstr "Възстановяване по подразбиране"
 
 msgid "grid.action.restoreDefaults.confirm"
-msgstr "Are you sure you wish to restore the defaults?"
+msgstr "Сигурни ли сте, че искате да възстановите настройките по подразбиране?"
 
 msgid "grid.action.addAuthor"
 msgstr "Add Author"
@@ -126,7 +126,7 @@ msgid "grid.action.upgrade"
 msgstr "Upgrade"
 
 msgid "grid.action.order"
-msgstr "Order"
+msgstr "Ред"
 
 msgid "grid.action.cancelOrdering"
 msgstr "Cancel ordering"
@@ -297,7 +297,7 @@ msgid "grid.action.unconsiderReview"
 msgstr "This review is complete, but you may unconsider it"
 
 msgid "grid.action.enable"
-msgstr "Enable"
+msgstr "Активиране"
 
 msgid "grid.action.bookInfo"
 msgstr "Submission Info"
@@ -414,10 +414,10 @@ msgid "grid.reviewFormElement.responseItems"
 msgstr "Response Options"
 
 msgid "grid.noFiles"
-msgstr "No Files"
+msgstr "Няма файлове"
 
 msgid "grid.libraryFiles.column.files"
-msgstr "Files"
+msgstr "Файлове"
 
 msgid "grid.libraryFiles.submission.title"
 msgstr "Submission Library"
@@ -438,7 +438,7 @@ msgid "grid.submissionChecklist.title"
 msgstr "Submission Checklist"
 
 msgid "grid.submissionChecklist.column.checklistItem"
-msgstr "Checklist Item"
+msgstr "Елемент от списък проверки"
 
 msgid "author.users.contributor.name"
 msgstr "Име"
@@ -456,13 +456,13 @@ msgid "author.users.contributor.includeInBrowse"
 msgstr "In Browse Lists"
 
 msgid "grid.roles.currentRoles"
-msgstr "Current Roles"
+msgstr "Настоящи роли"
 
 msgid "grid.roles.add"
-msgstr "Create New Role"
+msgstr "Създаване на нова роля"
 
 msgid "grid.roles.stageAssignment"
-msgstr "Stage Assignment"
+msgstr "Възлагане на етап"
 
 msgid "grid.user.currentUsers"
 msgstr "Настоящи потребители"
@@ -489,7 +489,7 @@ msgid "grid.user.email"
 msgstr "Имейл"
 
 msgid "grid.user.enable"
-msgstr "Enable"
+msgstr "Активиране"
 
 msgid "grid.user.disable"
 msgstr "Disable"
@@ -657,10 +657,10 @@ msgid "grid.submission.active.selectOrphaned"
 msgstr "Include incomplete submissions not submitted by an author."
 
 msgid "grid.action.addNavigationMenu"
-msgstr "Add Menu"
+msgstr "Добавяне на меню"
 
 msgid "grid.action.addNavigationMenuItem"
-msgstr "Add item"
+msgstr "Добавяне на елемент"
 
 msgid "grid.navigationMenus.navigationMenuItems.noneExist"
 msgstr "No Navigation Menu Items"

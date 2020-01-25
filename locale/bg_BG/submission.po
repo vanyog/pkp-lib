@@ -429,10 +429,10 @@ msgid "submission.changeFile"
 msgstr "Change File"
 
 msgid "submission.citations"
-msgstr "References"
+msgstr "Препратки"
 
 msgid "submission.citations.description"
-msgstr "Enter each reference on a new line so that they can be extracted and recorded separately."
+msgstr "Въведете всяка препратка на нова ред, така че, да могат да се извлекат и запишат отделно."
 
 msgid "submission.parsedCitations"
 msgstr "Extracted References"
@@ -477,13 +477,13 @@ msgid "submission.comments.noReviews"
 msgstr "No Reviews"
 
 msgid "submission.comments.review"
-msgstr "Review"
+msgstr "Рецензиране"
 
 msgid "submission.comments.sendDecisionToReviewers"
 msgstr "Send Reviewers editorial decision"
 
 msgid "submission.comments.subject"
-msgstr "Subject"
+msgstr "Тема"
 
 msgid "submission.complete"
 msgstr "Complete"
@@ -675,16 +675,16 @@ msgid "submission.outdatedVersion"
 msgstr "This is an outdated version published on {$datePublished}. Read the <a href=\"{$urlRecentVersion}\">most recent version</a>."
 
 msgid "submission.identifiers"
-msgstr "Identifiers"
+msgstr "Идентификатори"
 
 msgid "submission.publisherId"
-msgstr "Public URL identifier"
+msgstr "Публичен URL идентификатор"
 
 msgid "submission.informationCenter.submissionInfo"
 msgstr "Submission Info"
 
 msgid "submission.informationCenter.metadata"
-msgstr "Metadata"
+msgstr "Метаданни"
 
 msgid "submission.informationCenter.notes"
 msgstr "Notes"
@@ -729,7 +729,7 @@ msgid "submission.layout.galleyImages"
 msgstr "Images"
 
 msgid "submission.layout.galleyLabel"
-msgstr "Galley Label"
+msgstr "Етикет на галерията"
 
 msgid "submission.layout.galleyLabelInstructions"
 msgstr "Typically used to identify the file format (e.g. PDF, HTML, etc.)."
@@ -891,7 +891,7 @@ msgid "submission.reviewMetadata"
 msgstr "Review Metadata"
 
 msgid "submission.review"
-msgstr "Review"
+msgstr "Рецензиране"
 
 msgid "submission.reviewed"
 msgstr "Reviewed"
@@ -900,7 +900,7 @@ msgid "submission.reviewVersion"
 msgstr "Review Version"
 
 msgid "submission.rights"
-msgstr "Rights"
+msgstr "Права"
 
 msgid "submission.rights.tip"
 msgstr "If you wish, you may enter a brief statement about the access rights held in or over this submission."
@@ -921,7 +921,7 @@ msgid "submissions.declined"
 msgstr "Declined"
 
 msgid "submissions.incomplete"
-msgstr "Incomplete"
+msgstr "Незавършена"
 
 msgid "submissions.inactive"
 msgstr "Inactive for {$days} days"
@@ -942,28 +942,28 @@ msgid "submissions.ruling"
 msgstr "Ruling"
 
 msgid "submission.source"
-msgstr "Source"
+msgstr "Източник"
 
 msgid "submission.source.tip"
 msgstr "Is this submission derived from another resource? If so, you may enter a URL or description of that resource."
 
 msgid "submissions.submit"
-msgstr "Submit"
+msgstr "Предлагане"
 
 msgid "submissions.submitted"
-msgstr "Submitted"
+msgstr "Предложена"
 
 msgid "submission.submission"
-msgstr "Submission"
+msgstr "Предлагане на публикация"
 
 msgid "submission.submissionTitle"
 msgstr "Submission Title:"
 
 msgid "submission.start"
-msgstr "Start"
+msgstr "Начало"
 
 msgid "submission.submissionHistory"
-msgstr "Submission History"
+msgstr "История на предложението"
 
 msgid "submission.submissionManuscript"
 msgstr "Submission Manuscript"
@@ -1005,7 +1005,7 @@ msgid "submission.submit.submissionLocaleDescription"
 msgstr "Приемат се предложения на няколко езика. Изберете основния език от падащия списък отгоре."
 
 msgid "submission.submit.submissionFiles"
-msgstr "Submission Files"
+msgstr "Файлове на предложението"
 
 msgid "submission.submit.dependentFiles"
 msgstr "Dependent Files"
@@ -1026,7 +1026,7 @@ msgid "submission.supplementaryFiles"
 msgstr "Supplementary Files"
 
 msgid "submission.supportingAgencies"
-msgstr "Supporting Agencies"
+msgstr "Подкрепящи организации"
 
 msgid "submission.currentAgencies"
 msgstr "Current Agencies"
@@ -1152,10 +1152,10 @@ msgid "submission.status.scheduled"
 msgstr "Scheduled"
 
 msgid "submission.submit.uploadStep"
-msgstr "1. Upload File"
+msgstr "1. Качване на файл"
 
 msgid "submission.submit.uploadSubmissionFile"
-msgstr "Upload Submission File"
+msgstr "Качване на файл с предложение"
 
 msgid "submission.submit.metadataStep"
 msgstr "2. Review Details"
@@ -1545,7 +1545,7 @@ msgid "submission.supplementary.creator"
 msgstr "Creator (or owner) of file"
 
 msgid "submission.supplementary.subject"
-msgstr "Subject"
+msgstr "Тема"
 
 msgid "submission.supplementary.publisher"
 msgstr "Publisher"
@@ -1584,16 +1584,16 @@ msgid "submission.attachPermissions"
 msgstr "Attach the following permissions to the submission:"
 
 msgid "submission.license"
-msgstr "License"
+msgstr "Лиценз"
 
 msgid "submission.copyright"
 msgstr "Copyright"
 
 msgid "submission.copyrightHolder"
-msgstr "Copyright Holder"
+msgstr "Носител на авторските права"
 
 msgid "submission.copyrightYear"
-msgstr "Copyright Year"
+msgstr "Година на авторските права"
 
 msgid "submission.copyrightStatement"
 msgstr "Copyright (c) {$copyrightYear} {$copyrightHolder}"
@@ -1671,7 +1671,7 @@ msgid "submission.queries.production"
 msgstr "Production Discussions"
 
 msgid "submission.query.subject"
-msgstr "Subject"
+msgstr "Тема"
 
 msgid "submission.query.messages"
 msgstr "Messages"
@@ -1743,7 +1743,7 @@ msgid "submission.list.confirmDelete"
 msgstr "Delete submission?"
 
 msgid "submission.list.viewSubmission"
-msgstr "View Submission"
+msgstr "Преглед на предложението"
 
 msgid "submission.list.reviewsCompleted"
 msgstr "Assigned reviews completed"

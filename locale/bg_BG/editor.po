@@ -120,13 +120,13 @@ msgid "editor.submissionReview.skipEmail"
 msgstr "Do not send an email notification"
 
 msgid "editor.submissionReview.open"
-msgstr "Open"
+msgstr "Отворено"
 
 msgid "editor.submissionReview.blind"
-msgstr "Blind"
+msgstr "Сляпо"
 
 msgid "editor.submissionReview.doubleBlind"
-msgstr "Double-blind"
+msgstr "Двойно сляпо"
 
 msgid "editor.submissionReview.restrictFiles"
 msgstr "Files To Be Reviewed"
@@ -309,7 +309,7 @@ msgid "editor.submission.copyedit.manageCopyeditFilesDescription"
 msgstr "Any files that have already been uploaded to any submission stage can be added to the Copyedit Files listing by checking the Include checkbox below and clicking Search: all available files will be listed and can be chosen for inclusion. Additional files not already uploaded to a stage can be added to the listing by clicking the Upload File link."
 
 msgid "editor.review"
-msgstr "Review"
+msgstr "Рецензия"
 
 msgid "editor.review.reviewDetails"
 msgstr "Review Details"

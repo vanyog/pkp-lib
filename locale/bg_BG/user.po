@@ -12,10 +12,10 @@ msgstr ""
 "Language: \n"
 
 msgid "user.accountInformation"
-msgstr "Account Information"
+msgstr "Информация за профила"
 
 msgid "user.affiliation"
-msgstr "Affiliation"
+msgstr "Принадлежност"
 
 msgid "user.affiliation.description"
 msgstr "(Your institution, e.g. \"Simon Fraser University\")"
@@ -162,7 +162,7 @@ msgid "user.login.registrationComplete.instructions"
 msgstr "Thanks for registering! What would you like to do next?"
 
 msgid "user.login.registrationComplete.manageSubmissions"
-msgstr "View Submissions"
+msgstr "Преглед на предложението"
 
 msgid "user.login.registrationComplete.newSubmission"
 msgstr "Саставяне на ново предложение"
@@ -273,19 +273,19 @@ msgid "user.profile.leavePasswordBlank"
 msgstr "Leave the password fields blank to keep the current password."
 
 msgid "user.profile.newPassword"
-msgstr "New password"
+msgstr "Нова парола"
 
 msgid "user.profile.oldPassword"
-msgstr "Current password"
+msgstr "Настояща парола"
 
 msgid "user.profile"
-msgstr "Profile"
+msgstr "Профил"
 
 msgid "user.profile.publicProfile"
-msgstr "User Profile"
+msgstr "Профил на потребител"
 
 msgid "user.profile.repeatNewPassword"
-msgstr "Repeat new password"
+msgstr "Повторете своята парола"
 
 msgid "user.login.registerNewAccount"
 msgstr "Регистриране"
@@ -387,7 +387,7 @@ msgid "user.role.layoutEditors"
 msgstr "Layout Editors"
 
 msgid "user.roles"
-msgstr "Roles"
+msgstr "Роли"
 
 msgid "user.sendPassword"
 msgstr "Confirmation"
@@ -414,34 +414,34 @@ msgid "user.workingLanguages"
 msgstr "Работни езици"
 
 msgid "user.orcid"
-msgstr "ORCID iD"
+msgstr "ORCID идентификатор"
 
 msgid "user.orcid.orcidInvalid"
-msgstr "The ORCID iD you specified is invalid. Please include the full URI (e.g. \"https://orcid.org/0000-0002-1825-0097\")."
+msgstr "Въведеният от Вас ORCID идентификатор не е валиден. Моля въведете пълен URI (например: \"https://orcid.org/0000-0002-1825-0097\")."
 
 msgid "user.profile.identity"
-msgstr "Identity"
+msgstr "Идентичност"
 
 msgid "user.profile.contact"
 msgstr "Контакт"
 
 msgid "user.profile.public"
-msgstr "Public"
+msgstr "Публичен"
 
 msgid "user.apiKey"
-msgstr "API Key"
+msgstr "API ключ"
 
 msgid "user.apiKeyEnabled"
-msgstr "Enable external applications with the API key to access this account"
+msgstr "Предоставяне възможност на вършни преложения, разполагащи с API ключ да имат дастъп до този профил"
 
 msgid "user.apiKey.generate"
-msgstr "Generate new API key"
+msgstr "Генериране на нов API ключ"
 
 msgid "user.apiKey.generateWarning"
-msgstr "Generating a new API key will invalidate any existing key for this user."
+msgstr "Генерирането на нов API ключ, ще направи невалиден съществуващия клуч за този потребител."
 
 msgid "user.apiKey.secretRequired"
 msgstr "Преди генериране на API key, Вашият администратор трябва да зададе \"api_key_secret\" във файл config."
 
 msgid "user.privacyLink"
-msgstr "Your data is stored in accordance with our <a href=\"{$privacyUrl}\" target=\"_blank\">privacy statement</a>."
+msgstr "Вашите данни се съхраняват съгласно обявените от нас условия за <a href=\"{$privacyUrl}\" target=\"_blank\">Обработка на лични данни</a>."

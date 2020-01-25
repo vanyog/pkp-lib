@@ -21,7 +21,7 @@ msgid "manager.website.imageFileRequired"
 msgstr "An image file is required. Please ensure that you have chosen and uploaded a file."
 
 msgid "manager.announcements"
-msgstr "Announcements"
+msgstr "Обявления"
 
 msgid "manager.announcements.confirmDelete"
 msgstr "Are you sure you want to permanently delete this announcement?"
@@ -90,7 +90,7 @@ msgid "manager.announcements.form.title"
 msgstr "Заглавие"
 
 msgid "manager.announcements.form.typeId"
-msgstr "Type"
+msgstr "Тип"
 
 msgid "manager.announcements.form.typeIdValid"
 msgstr "Please select a valid announcement type."
@@ -102,7 +102,7 @@ msgid "manager.announcements.title"
 msgstr "Заглавие"
 
 msgid "manager.announcements.type"
-msgstr "Type"
+msgstr "Тип"
 
 msgid "manager.announcementTypes"
 msgstr "Announcement Types"
@@ -141,10 +141,10 @@ msgid "manager.announcementTypes.typeName"
 msgstr "Announcement Type"
 
 msgid "manager.publication.submissionStage"
-msgstr "Submission"
+msgstr "Предлагане публикация"
 
 msgid "manager.publication.reviewStage"
-msgstr "Review"
+msgstr "Рецензиране"
 
 msgid "manager.publication.editorialStage"
 msgstr "Editorial"
@@ -153,7 +153,7 @@ msgid "manager.publication.productionStage"
 msgstr "Production"
 
 msgid "manager.publication.emails"
-msgstr "Emails"
+msgstr "Имейли"
 
 msgid "manager.publication.emailSetup.success"
 msgstr "The email settings have been updated."
@@ -177,7 +177,7 @@ msgid "manager.emails.confirmReset"
 msgstr "Are you sure you want to reset this email template to its default values?"
 
 msgid "manager.emails.addEmail"
-msgstr "Add Template"
+msgstr "Добавяне на шаблон"
 
 msgid "manager.emails.addEmail.success"
 msgstr "The email template was added."
@@ -210,19 +210,19 @@ msgid "manager.emails.editTestExample"
 msgstr "Edit Email Test Example"
 
 msgid "manager.emails.emailKey"
-msgstr "Email Key"
+msgstr "Ключ за имейл"
 
 msgid "manager.emails.emailKey.description"
-msgstr "The email key can only contain letters, numbers and underscores."
+msgstr "Ключът за имейл може да съдържа само букви цифри и дални тирета."
 
 msgid "manager.emails.emailKeyExists"
 msgstr "An email with the given key already exists. Email keys must be unique."
 
 msgid "manager.emails.emailTemplate"
-msgstr "Email Template"
+msgstr "Шаблон за имейл"
 
 msgid "manager.emails.emailTemplates"
-msgstr "Email Templates"
+msgstr "Шаблони за имейли"
 
 msgid "manager.emails.emailTemplate.contextRequired"
 msgstr "You must provide a context ID when adding an email template."
@@ -234,7 +234,7 @@ msgid "manager.emails.enabled"
 msgstr "Enable this email template"
 
 msgid "manager.emails.enable"
-msgstr "Enable"
+msgstr "Активиране"
 
 msgid "manager.emails.enable.message"
 msgstr "You are about to enable this email.  Do you want to confirm this operation?"
@@ -252,13 +252,13 @@ msgid "manager.emails"
 msgstr "Prepared Emails"
 
 msgid "manager.emails.resetAll"
-msgstr "Reset All"
+msgstr "Нулиране на всички"
 
 msgid "manager.emails.resetAll.message"
-msgstr "If you reset all templates, all modifications to the email templates will be lost.  Do you want to confirm this operation?"
+msgstr "Ако нулирате всички шаблони, всички промени в шаблоните за имейли ще бъдат изгубени. Искате ли да продължите?"
 
 msgid "manager.emails.reset"
-msgstr "Reset"
+msgstr "Нулиране"
 
 msgid "manager.emails.reset.message"
 msgstr "If you reset this template, all message data will be reset to its default value, losing all modifications.  Do you want to confirm this operation?"
@@ -399,7 +399,7 @@ msgid "manager.people.emailUsers.selectUsers"
 msgstr "Select the users you would like to email by checking the boxes beside their names"
 
 msgid "manager.people.enable"
-msgstr "Enable"
+msgstr "Активиране"
 
 msgid "manager.people.enroll"
 msgstr "Enroll User"
@@ -480,7 +480,7 @@ msgid "manager.plugins.disable"
 msgstr "Disable"
 
 msgid "manager.plugins.enable"
-msgstr "Enable"
+msgstr "Активиране"
 
 msgid "manager.plugins.pluginManagement"
 msgstr "Plugin Management"
@@ -516,7 +516,7 @@ msgid "manager.reviewerSearch.form.instructions"
 msgstr "Use the form below to set the maximum values for the terms you wish to search for.  The form is pre-populated with the calculated averages of those fields."
 
 msgid "manager.roles"
-msgstr "Roles"
+msgstr "Роли"
 
 msgid "manager.statistics"
 msgstr "Stats &amp; Reports"
@@ -647,7 +647,7 @@ msgid "manager.setup.advanced"
 msgstr "Още"
 
 msgid "manager.setup.appearance.success"
-msgstr "The appearance settings have been updated."
+msgstr "Настройките за изглед бяха актуализирани."
 
 msgid "manager.setup.contact.success"
 msgstr "The contact details for this press have been updated."
@@ -659,16 +659,16 @@ msgid "manager.setup.copyrightNotice.description"
 msgstr "Require authors to agree to the following copyright notice as part of the submission process."
 
 msgid "manager.setup.authorGuidelines"
-msgstr "Author Guidelines"
+msgstr "Указания за автори"
 
 msgid "manager.setup.authorGuidelines.description"
-msgstr "Recommended guidelines include bibliographic and formatting standards alongside examples of common citation formats to be used in submissions."
+msgstr "Препоръчваните указани включват стандарти за библиография и форматиране, придружени от примери за обичайните формати за цитиране, които да се използват в предлаганите работи."
 
 msgid "manager.setup.authorGuidelines.success"
 msgstr "The author guidelines have been successfully updated."
 
 msgid "manager.setup.checklist"
-msgstr "Checklist"
+msgstr "Списк на проверки"
 
 msgid "manager.setup.competingInterests"
 msgstr "Competing Interests"
@@ -680,7 +680,7 @@ msgid "manager.setup.favicon"
 msgstr "Икона"
 
 msgid "manager.setup.groupType"
-msgstr "File type grouping"
+msgstr "Групиране на типовете файлове"
 
 msgid "manager.setup.homepageImage"
 msgstr "Homepage Image"
@@ -752,16 +752,16 @@ msgid "manager.setup.privacyStatement.description"
 msgstr "Това заявление ще се покаже по време на регистрирането на потребители, предлагане от автори и публично на страница Обработване на лични данни. Според някои законодателства Вие сте задължени юридически да разкриете как обработвате личните данни на потребителите."
 
 msgid "manager.setup.reviewOptions.defaultReviewResponseTime"
-msgstr "Default Response Deadline"
+msgstr "Срок по подразбиране за отговаряне"
 
 msgid "manager.setup.reviewOptions.defaultReviewCompletionTime"
-msgstr "Default Completion Deadline"
+msgstr "Срок за завършване на рецензия"
 
 msgid "manager.setup.reviewOptions.numWeeksPerResponse"
-msgstr "Number of weeks to accept or decline a review request."
+msgstr "Брой на седмиците за приемане предложение за рецензиране."
 
 msgid "manager.setup.reviewOptions.numWeeksPerReview"
-msgstr "Weeks allowed for review completion"
+msgstr "Брой седмици за завършване на рецензия"
 
 msgid "manager.setup.reviewOptions.neverSendReminder"
 msgstr "Never Remind"
@@ -782,7 +782,7 @@ msgid "manager.setup.reviewOptions.reminders.submit.description"
 msgstr "Send an email reminder if a reviewer has not submitted a recommendation within this many after the review's due date."
 
 msgid "manager.setup.reviewOptions.reviewMode"
-msgstr "Default Review Mode"
+msgstr "Начин за рецензиране по подразбиране"
 
 msgid "manager.setup.reviewOptions.showBlindReviewLink"
 msgstr "Present a link to <button type=\"button\">Ensuring a Blind Review</button> during upload"
@@ -818,7 +818,7 @@ msgid "manager.setup.userAccess.success"
 msgstr "The user access details for this press have been updated."
 
 msgid "manager.siteAccessOptions.siteAccessOptions"
-msgstr "Site Access Options"
+msgstr "Опции за достъп до сайта"
 
 msgid "manager.statistics.statistics.count.value"
 msgstr "{$count} ({$percentage}%)"
@@ -1082,22 +1082,22 @@ msgid "notification.localeReloaded"
 msgstr "{$locale} locale reloaded for {$contextName}."
 
 msgid "notification.localeSettingsSaved"
-msgstr "Locale settings saved."
+msgstr "Настройките за локация са запазени."
 
 msgid "notification.editedUser"
 msgstr "User edited."
 
 msgid "manager.distribution.license"
-msgstr "License"
+msgstr "Лиценз"
 
 msgid "manager.distribution.license.success"
 msgstr "The licensing details have been updated. "
 
 msgid "manager.distribution.license.other"
-msgstr "Other license URL"
+msgstr "URL за друг лиценз"
 
 msgid "manager.distribution.licenseTerms"
-msgstr "License Terms"
+msgstr "Лицензионни условия"
 
 msgid "manager.distribution.licenseTerms.description"
 msgstr "Enter public licensing terms you would like to display alongside published work."
@@ -1109,7 +1109,7 @@ msgid "manager.distribution.customHeaders.description"
 msgstr "Добавете мета HTML тагове, които да бъдат вмъкнати в заглавната част на всяка страница. Консултирайте се с технически съветник преди да добавите такива тагове."
 
 msgid "manager.paymentMethod"
-msgstr "Payments"
+msgstr "Плащания"
 
 msgid "manager.paymentMethod.title"
 msgstr "Payment Methods"
@@ -1121,10 +1121,10 @@ msgid "manager.paymentMethod.method"
 msgstr "Payment Method"
 
 msgid "manager.paymentMethod.currency"
-msgstr "Currency"
+msgstr "Валута"
 
 msgid "settings.roles.roleOptions"
-msgstr "Role Options"
+msgstr "Опции на ролята"
 
 msgid "settings.roles.showTitles"
 msgstr "Show role title in contributor list"
@@ -1136,7 +1136,7 @@ msgid "settings.roles.recommendOnly"
 msgstr "This role is only allowed to recommend a review decision and will require an authorised editor to record a final decision."
 
 msgid "settings.roles.roleName"
-msgstr "Role Name"
+msgstr "Название на ролята"
 
 msgid "settings.roles.roleAbbrev"
 msgstr "Съкращение"
@@ -1148,10 +1148,10 @@ msgid "settings.roles.stages"
 msgstr "Stages"
 
 msgid "settings.roles.roleDetails"
-msgstr "Role details"
+msgstr "Детайли за ролята"
 
 msgid "settings.roles.from"
-msgstr "Permission level"
+msgstr "Ниво на правата"
 
 msgid "settings.roles.removeText"
 msgstr "You are about to remove this role from this context. This operation will also delete related settings and all the users assignments to this role. Do you want to continue?"
@@ -1208,7 +1208,7 @@ msgid "settings.libraryFiles.public.selectLibraryFiles"
 msgstr "Select Library Files to attach"
 
 msgid "grid.action.addGenre"
-msgstr "Add a Component"
+msgstr "Добавяне на компонента"
 
 msgid "grid.action.editGenre"
 msgstr "Edit this Component"
@@ -1220,16 +1220,16 @@ msgid "grid.action.restoreGenres"
 msgstr "Restore the components to the default settings"
 
 msgid "manager.setup.genres.dependent"
-msgstr "Mark files of this type as dependent files (e.g. not to be listed with published content)"
+msgstr "Отбелязване на файловете от този тип като зависими файлове (например, да не се показват с публикуваното съдържание)"
 
 msgid "manager.setup.genres.supplementary"
-msgstr "Mark files of this type as supplementary files (e.g. not primary submission content)"
+msgstr "Отбелязване на файловете от този тип като допълнителни (например, не първоначално  предлагано съдържание)"
 
 msgid "manager.setup.genres.key"
-msgstr "Key"
+msgstr "Ключ"
 
 msgid "manager.setup.genres.key.description"
-msgstr "An optional short symbolic identifer for this genre."
+msgstr "Кратък символичен идентификатор за този жанр."
 
 msgid "manager.setup.genres.key.exists"
 msgstr "The key already exists."
@@ -1250,16 +1250,16 @@ msgid "manager.website.title"
 msgstr "Настройки на сайта"
 
 msgid "manager.workflow"
-msgstr "Workflow"
+msgstr "Работен процес"
 
 msgid "manager.workflow.title"
-msgstr "Workflow Settings"
+msgstr "Настройки на работния процес"
 
 msgid "manager.distribution"
-msgstr "Distribution"
+msgstr "Разпространяване"
 
 msgid "manager.distribution.title"
-msgstr "Distribution Settings"
+msgstr "Настройки за разпространяване"
 
 msgid "manager.reviewForms"
 msgstr "Review Forms"
@@ -1403,13 +1403,13 @@ msgid "manager.setup.metadata.success"
 msgstr "The submission metadata has been updated successfully."
 
 msgid "manager.setup.metadata.coverage"
-msgstr "Coverage"
+msgstr "Покритие"
 
 msgid "manager.setup.metadata.coverage.description"
-msgstr "Coverage will typically indicate a work's spatial location (a place name or geographic coordinates), temporal period (a period label, date, or date range) or jurisdiction (such as a named administrative entity)."
+msgstr "Типично покритието ще посочва специалнато местоположение на работата (название на място или географски координати), времеви период (название на период, дата, или интервал от дати) или юрисдикция (като наименувана административна единица)."
 
 msgid "manager.setup.metadata.coverage.enable"
-msgstr "Enable coverage metadata"
+msgstr "Активиране на метаданни за покритие"
 
 msgid "manager.setup.metadata.coverage.noRequest"
 msgstr "Do not request coverage metadata from the author during submission."
@@ -1421,25 +1421,25 @@ msgid "manager.setup.metadata.coverage.require"
 msgstr "Require the author to suggest coverage metadata before accepting their submission."
 
 msgid "manager.setup.metadata.keywords.description"
-msgstr "Keywords are typically one- to three-word phrases that are used to indicate the main topics of a submission."
+msgstr "Типично ключовите думи са думи или фрази от две-три думи, които се използват за посочване на главната тема на предлаганата работа."
 
 msgid "manager.setup.metadata.keywords.enable"
-msgstr "Enable keyword metadata"
+msgstr "Активиране на метаданни за ключови думи"
 
 msgid "manager.setup.metadata.keywords.noRequest"
-msgstr "Do not request keywords from the author during submission."
+msgstr "Да не се изискват ключови думи от авторите по време на предлагане на работа."
 
 msgid "manager.setup.metadata.keywords.request"
-msgstr "Ask the author to suggest keywords during submission."
+msgstr "Да се искат от авторите ключови думи по време на предлагане на работата."
 
 msgid "manager.setup.metadata.keywords.require"
-msgstr "Require the author to suggest keywords before accepting their submission."
+msgstr "Да се изисква от авторите да предложат ключови думи преди приемане на тяхното предложение."
 
 msgid "manager.setup.metadata.languages.description"
-msgstr "Language indicates the work's primary language using a language code (\"en\") with an optional country code (\"en_US\")."
+msgstr "Езикът посочва първоначалния език на работата чрез използване на код на езика (\"bg\") с незадължителен код на държава (\"bg_BG\")."
 
 msgid "manager.setup.metadata.languages.enable"
-msgstr "Enable language metadata"
+msgstr "Активиране на метаданни за език"
 
 msgid "manager.setup.metadata.languages.noRequest"
 msgstr "Do not request the submission's languages from the author during submission."
@@ -1451,10 +1451,10 @@ msgid "manager.setup.metadata.languages.require"
 msgstr "Require the author to enter the submission's languages before accepting their submission."
 
 msgid "manager.setup.metadata.rights.description"
-msgstr "Any rights held over the submission, which may include Intellectual Property Rights (IPR), Copyright, and various Property Rights."
+msgstr "Всякакви права върху предлаганата работа, което може да включва права за интелектуална собственост, авторски права, други имуществени права."
 
 msgid "manager.setup.metadata.rights.enable"
-msgstr "Enable rights metadata"
+msgstr "Активиране на метаданни за права"
 
 msgid "manager.setup.metadata.rights.noRequest"
 msgstr "Do not request a rights disclosure from the author during submission."
@@ -1466,10 +1466,10 @@ msgid "manager.setup.metadata.rights.require"
 msgstr "Require the author to disclose any prior access rights before accepting their submission."
 
 msgid "manager.setup.metadata.source.description"
-msgstr "The source may be an ID, such as a DOI, of another work or resource from which the submission is derived."
+msgstr "Източникът може да бъде идентификатор, като DOI, на друга работа или ресурс, от която произлиза предлаганата работа."
 
 msgid "manager.setup.metadata.source.enable"
-msgstr "Enable source metadata"
+msgstr "Активиране на метаданни за източник"
 
 msgid "manager.setup.metadata.source.noRequest"
 msgstr "Do not request a source URL from the author during submission."
@@ -1481,10 +1481,10 @@ msgid "manager.setup.metadata.source.require"
 msgstr "Require the author to provide a source URL before accepting their submission."
 
 msgid "manager.setup.metadata.subjects.description"
-msgstr "Subjects will be keywords, key phrases or classification codes that describe a topic of the submission."
+msgstr "Темите могат да бъдат ключови думи, фрази или кодове за класифициране, които описват темата на предлаганата работа."
 
 msgid "manager.setup.metadata.subjects.enable"
-msgstr "Enable subject metadata"
+msgstr "Активиране на метаданни за теми"
 
 msgid "manager.setup.metadata.subjects.noRequest"
 msgstr "Do not request subjects from the author during submission."
@@ -1496,10 +1496,10 @@ msgid "manager.setup.metadata.subjects.require"
 msgstr "Require the author to provide subjects before accepting their submission."
 
 msgid "manager.setup.metadata.type.description"
-msgstr "The nature or genre of the main content of the submission. The type is usually \"Text\", but may also be \"Dataset\", \"Image\" or any of the <a target=\"_blank\" href=\"http://dublincore.org/documents/dcmi-type-vocabulary/#section-7-dcmi-type-vocabulary\">Dublin Core types</a>."
+msgstr "Същност на жанра на главното съдържание на предлаганата работа. Обикновено типът е \"Текст\", но може да бъде също \"Данни\", \"Изображение\" или всеки от <a target=\"_blank\" href=\"https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary/\">Dublin Core types</a>."
 
 msgid "manager.setup.metadata.type.enable"
-msgstr "Enable type metadata"
+msgstr "Активиране на метаданни за тип"
 
 msgid "manager.setup.metadata.type.noRequest"
 msgstr "Do not request the type from the author during submission."
@@ -1511,10 +1511,10 @@ msgid "manager.setup.metadata.type.require"
 msgstr "Require the author to provide the type before accepting their submission."
 
 msgid "manager.setup.metadata.disciplines.description"
-msgstr "Disciplines are types of study or branches of knowledge as described by university faculties and learned societies."
+msgstr "Дисциплините са типове изследвания или обласки на знания както са описвани от университетските факултети и обществата на учените."
 
 msgid "manager.setup.metadata.disciplines.enable"
-msgstr "Enable disciplines metadata"
+msgstr "Активиране на метаданни за дисциплини"
 
 msgid "manager.setup.metadata.disciplines.noRequest"
 msgstr "Do not request disciplines from the author during submission."
@@ -1526,10 +1526,10 @@ msgid "manager.setup.metadata.disciplines.require"
 msgstr "Require the author to provide disciplines before accepting their submission."
 
 msgid "manager.setup.metadata.agencies.description"
-msgstr "Supporting agencies may indicate the source of research funding or other institutional support that facilitated the research."
+msgstr "Поддържащите организации може да сочат източниците на финансиране на изследванията или друга институционална подкрепа за изследването."
 
 msgid "manager.setup.metadata.agencies.enable"
-msgstr "Enable supporting agencies metadata"
+msgstr "Активиране на метаданни за подкрепящи организации"
 
 msgid "manager.setup.metadata.agencies.noRequest"
 msgstr "Do not request supporting agencies from the author during submission."
@@ -1541,10 +1541,10 @@ msgid "manager.setup.metadata.agencies.require"
 msgstr "Require the author to disclose any supporting agencies before accepting their submission."
 
 msgid "manager.setup.metadata.citations.description"
-msgstr "Collect a submission's references in a separate field. This may be required to comply with citation-tracking services such as Crossref."
+msgstr "Въвеждане на позоваванията на работата в отделно поле. Това може да се изисква, за съгласуване с услуги за проследяване на цитирания като Crossref."
 
 msgid "manager.setup.metadata.citations.enable"
-msgstr "Enable references metadata"
+msgstr "Активиране на метаданни за позовавания"
 
 msgid "manager.setup.metadata.citations.noRequest"
 msgstr "Do not request references from the author during submission."
@@ -1643,10 +1643,10 @@ msgid "manager.navigationMenuItems"
 msgstr "Navigation Menu Items"
 
 msgid "manager.navigationMenus.assignedMenuItems"
-msgstr "Assigned Menu Items"
+msgstr "Присвоени елементи в меню"
 
 msgid "manager.navigationMenus.unassignedMenuItems"
-msgstr "Unassigned Menu Items"
+msgstr "Неприсвоени елементи за меню"
 
 msgid "manager.navigationMenus.form.navigationMenuArea"
 msgstr "Област за навигация на активната тема"
@@ -1712,7 +1712,7 @@ msgid "manager.navigationMenus.announcements.description"
 msgstr "Link to the page displaying your announcements."
 
 msgid "manager.navigationMenus.announcements.conditionalWarning"
-msgstr "This link will only be displayed if you have enabled announcements under Settings > Website."
+msgstr "Тази настройка ще се показва само ако сте активирали обявленията през Настройки > Уевсайт."
 
 msgid "manager.navigationMenus.login.description"
 msgstr "Link to the user login page."
@@ -1736,22 +1736,22 @@ msgid "manager.navigationMenus.logOut.description"
 msgstr "A link that will log the user out."
 
 msgid "manager.navigationMenus.loggedOut.conditionalWarning"
-msgstr "This link will only be displayed when the visitor is logged in."
+msgstr "Тази хипервръзка ще се показва само когато посетителят е влязъл."
 
 msgid "manager.navigationMenus.loggedIn.conditionalWarning"
-msgstr "This link will only be displayed when the visitor is not logged in."
+msgstr "Тази хипервръзка ще се показва само когато посетителят не е влязъл."
 
 msgid "manager.navigationMenus.contact.description"
 msgstr "Link to a page displaying your contact information."
 
 msgid "manager.navigationMenus.contact.conditionalWarning"
-msgstr "This link will only be displayed if you have filled out the Contact information under Settings > Contact."
+msgstr "Тази хипервръзка ще се показва само ако сте попълнили информация за контакт през Настройки > Контакт."
 
 msgid "manager.navigationMenus.form.typeMissing"
 msgstr "Please select a navigation menu type."
 
 msgid "manager.navigationMenus.subscriptions.conditionalWarning"
-msgstr "This link will only be displayed if payments are enabled under Settings > Distribution > Payments."
+msgstr "Тази хипервръзка ще се показва само ако плащането е активирано от Настройки > Разпространение > Плащания."
 
 msgid "manager.navigationMenus.mySubscriptions.conditionalWarning"
 msgstr "This link will only be displayed if the visitor is logged in, payments are enabled under Settings > Distribution > Payments and subscriptions are required under Settings > Distribution > Access."

@@ -54,22 +54,22 @@ msgid "about.siteMap"
 msgstr "Site Map"
 
 msgid "announcement.announcements"
-msgstr "Announcements"
+msgstr "Обявления"
 
 msgid "announcement.announcementsHome"
-msgstr "Announcements"
+msgstr "Обявления"
 
 msgid "announcement.moreAnnouncements"
-msgstr "More Announcements..."
+msgstr "Още обявления..."
 
 msgid "announcement.noneExist"
-msgstr "No announcements have been published."
+msgstr "Още не са публикувани обявления."
 
 msgid "announcement.posted"
-msgstr "Posted"
+msgstr "Изпратено"
 
 msgid "announcement.postedOn"
-msgstr "Posted on {$postDate}"
+msgstr "Изпратено на {$postDate}"
 
 msgid "announcement.view"
 msgstr "View Announcement"
@@ -177,13 +177,13 @@ msgid "common.cancelled"
 msgstr "Cancelled"
 
 msgid "common.warning"
-msgstr "Warning"
+msgstr "Предупреждение"
 
 msgid "common.error"
-msgstr "Error"
+msgstr "Грешка"
 
 msgid "common.notice"
-msgstr "Notice"
+msgstr "Забележка"
 
 msgid "common.captcha.error.missing-input-secret"
 msgstr "The captcha validation for this website is not configured correctly. The secret key is missing."
@@ -352,10 +352,10 @@ msgid "common.edit"
 msgstr "Редактиране"
 
 msgid "common.enable"
-msgstr "Enable"
+msgstr "Активиране"
 
 msgid "common.enabled"
-msgstr "Активна"
+msgstr "Активен"
 
 msgid "common.error.databaseError"
 msgstr "A database error has occurred: {$error}"
@@ -451,7 +451,7 @@ msgid "common.inProgress"
 msgstr "In progress"
 
 msgid "common.itemsPerPage"
-msgstr "Items per page"
+msgstr "Елементи на страница"
 
 msgid "common.keywords"
 msgstr "Ключови думи"
@@ -463,7 +463,7 @@ msgid "common.languages"
 msgstr "Езици"
 
 msgid "common.lastActivity"
-msgstr "Last activity recorded on {$date}."
+msgstr "Последна активност е записана в {$date}."
 
 msgid "common.less"
 msgstr "Less"
@@ -556,10 +556,10 @@ msgid "common.ok"
 msgstr "Да"
 
 msgid "common.options"
-msgstr "Options"
+msgstr "Опции"
 
 msgid "common.order"
-msgstr "Order"
+msgstr "Ред"
 
 msgid "common.orderUp"
 msgstr "Increase position of {$itemTitle}"
@@ -721,22 +721,22 @@ msgid "common.select"
 msgstr "Select"
 
 msgid "common.sendEmail"
-msgstr "Send Email"
+msgstr "Изпращане имейл"
 
 msgid "common.size"
-msgstr "Size"
+msgstr "Размер"
 
 msgid "common.source"
-msgstr "Source"
+msgstr "Източник"
 
 msgid "common.status"
 msgstr "Статус"
 
 msgid "common.subject"
-msgstr "Subject"
+msgstr "Тема"
 
 msgid "common.subjects"
-msgstr "Subjects"
+msgstr "Теми"
 
 msgid "common.submenu"
 msgstr "Submenu"
@@ -760,7 +760,7 @@ msgid "common.true"
 msgstr "True"
 
 msgid "common.type"
-msgstr "Type"
+msgstr "Тип"
 
 msgid "common.component"
 msgstr "Component"
@@ -898,7 +898,7 @@ msgid "email.bccSender"
 msgstr "Send a copy of this message to my address ({$address})"
 
 msgid "email.body"
-msgstr "Body"
+msgstr "Тяло"
 
 msgid "email.cc"
 msgstr "CC"
@@ -949,7 +949,7 @@ msgid "email.skip"
 msgstr "Skip Email"
 
 msgid "email.subject"
-msgstr "Subject"
+msgstr "Тема"
 
 msgid "email.subjectRequired"
 msgstr "Please provide an email subject."
@@ -1093,19 +1093,19 @@ msgid "form.multilingualProgress"
 msgstr "{$count}/{$total} попълнени езици"
 
 msgid "help.help"
-msgstr "Help"
+msgstr "Помощ"
 
 msgid "help.toc"
-msgstr "Table of Contents"
+msgstr "Съдържание"
 
 msgid "help.previous"
-msgstr "Previous"
+msgstr "Назад"
 
 msgid "help.next"
-msgstr "Next"
+msgstr "Напред"
 
 msgid "help.upALevel"
-msgstr "Up a Level"
+msgstr "Ниво нагоре"
 
 msgid "icon.checked.alt"
 msgstr "Checked"
@@ -1219,10 +1219,10 @@ msgid "locale.primary"
 msgstr "Първична локация"
 
 msgid "locale.supported"
-msgstr "Supported locales"
+msgstr "Поддържани локации"
 
 msgid "navigation.access"
-msgstr "Users &amp; Roles"
+msgstr "Потребители и роли"
 
 msgid "navigation.about"
 msgstr "Относно"
@@ -1471,7 +1471,7 @@ msgid "search.cli.rebuildIndex.result"
 msgstr "{$numIndexed} articles indexed"
 
 msgid "search.coverage"
-msgstr "Coverage"
+msgstr "Покритие"
 
 msgid "search.date"
 msgstr "Publication Date"
@@ -1480,19 +1480,19 @@ msgid "search.dateFrom"
 msgstr "Published After"
 
 msgid "search.dateTo"
-msgstr "Published Before"
+msgstr "Публикувана преди"
 
 msgid "search.deleteFilter"
 msgstr "Изтриване"
 
 msgid "search.discipline"
-msgstr "Disciplines"
+msgstr "Дисциплини"
 
 msgid "search.fullText"
-msgstr "Full Text"
+msgstr "Пълен текст"
 
 msgid "search.indexTerms"
-msgstr "Index terms"
+msgstr "Индексни термини"
 
 msgid "search.indexTermsLong"
 msgstr "All index term fields"
