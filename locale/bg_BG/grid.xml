@@ -75,11 +75,11 @@
 	<message key="grid.submissionChecklist.column.checklistItem">Checklist Item</message>
 
 	<!-- Submission Contributors -->
-	<message key="author.users.contributor.name">Name</message>
-	<message key="author.users.contributor.email">E-mail</message>
-	<message key="author.users.contributor.role">Role</message>
-	<message key="author.users.contributor.principalContact">Primary Contact</message>
+        <message key="author.users.contributor.name">Име</message>
+        <message key="author.users.contributor.email">Имейл</message>
+        <message key="author.users.contributor.role">Роля</message>
+        <message key="author.users.contributor.principalContact">Главен контакт</message>
 
 	<!-- Chapters -->
-	<message key="grid.chapters.title">Chapters</message>
+        <message key="grid.chapters.title">Глави</message>
 </locale>

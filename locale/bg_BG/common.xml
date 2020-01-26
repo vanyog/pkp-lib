@@ -16,16 +16,16 @@
         <message key="about.aboutSite">Относно сайта</message>
 	<message key="about.contact">Contact</message>
         <message key="about.contact.email">Имейл</message>
-	<message key="about.contact.fax">Fax</message>
-	<message key="about.contact.phone">Phone</message>
+        <message key="about.contact.fax">Факс</message>
+        <message key="about.contact.phone">Телефон</message>
 	<message key="about.contact.principalContact">Principal Contact</message>
 	<message key="about.contact.supportContact">Support Contact</message>
 	<message key="about.other">Other</message>
 	<message key="about.people">People</message>
 	<message key="about.policies">Policies</message>
 	<message key="about.siteMap">Site Map</message>
-	<message key="announcement.announcements">Announcements</message>
-	<message key="announcement.announcementsHome">Announcements</message>
+        <message key="announcement.announcements">Обявления</message>
+        <message key="announcement.announcementsHome">Обявления</message>
 	<message key="announcement.moreAnnouncements">More Announcements...</message>
 	<message key="announcement.noneExist">No announcements have been published.</message>
 	<message key="announcement.posted">Posted</message>
@@ -88,7 +88,7 @@
 	<message key="common.default">Default</message>
         <message key="common.delete">Изтриване</message>
 	<message key="common.deleteSelection">Delete Selection</message>
-	<message key="common.description">Description</message>
+        <message key="common.description">Описание</message>
 	<message key="common.disabled">Disabled</message>
 	<message key="common.discipline">Discipline</message>
 	<message key="common.done">Done</message>
@@ -113,11 +113,11 @@
 	<message key="common.import">Import</message>
 	<message key="common.initiate">Initiate</message>
 	<message key="common.inProgress">In progress</message>
-	<message key="common.keywords">Keywords</message>
+        <message key="common.keywords">Ключови думи</message>
         <message key="common.language">Език</message>
         <message key="common.languages">Езици</message>
-	<message key="common.manage">Manage</message>
-	<message key="common.mailingAddress">Mailing Address</message>
+        <message key="common.manage">Управляване</message>
+        <message key="common.mailingAddress">Пощенски адрес</message>
 	<message key="common.billingAddress">Billing address (if different)</message>
 	<message key="common.minute">Minute(s)</message>
 	<message key="common.modify">Modify</message>
@@ -151,7 +151,7 @@
 	<message key="common.replaceFile">Replace file</message>
         <message key="common.requiredField">* означава задължително поле</message>
 	<message key="common.required">Required</message>
-	<message key="common.saveAndContinue">Save and continue</message>
+        <message key="common.saveAndContinue">Запазване и продължаване</message>
 	<message key="common.saveAndEmail">Save and email</message>
         <message key="common.save">Запазване</message>
         <message key="common.search">Търсене</message>
@@ -177,7 +177,7 @@
 	<message key="common.up">Up</message>
 	<message key="common.url">URL</message>
 	<message key="common.user">Потребител</message>
-	<message key="common.view">View</message>
+        <message key="common.view">Преглед</message>
 	<message key="common.weeks">weeks</message>
 	<message key="common.width">Width</message>
 	<message key="common.year">Year</message>
@@ -281,11 +281,11 @@
 	<message key="notification.mailList.submit"><![CDATA[<a href="{$submitUrl}">Submit</a> an article]]></message>
 	<message key="notification.mailList.register">You can register with this site to...</message>
 	<message key="notification.mailList.review"><![CDATA[Participate in the <a href="{$reviewUrl}">peer review</a> process]]></message>
-	<message key="notification.noneExist">You have no notifications at this time.</message>
-	<message key="notification.notification">Notification</message>
-	<message key="notification.notifications">Notifications</message>
+        <message key="notification.noneExist">За момента Вие нямате уведомления.</message>
+        <message key="notification.notification">Уведомление</message>
+        <message key="notification.notifications">Уведомления</message>
 	<message key="notification.notificationsNew">({$numNew} new)</message>
-	<message key="notification.notificationsDescription">You have {$unreadCount} unread notifications and {$readCount} read notifications.<![CDATA[  <a href="{$settingsUrl}">Click here</a> to change your notification settings.]]></message>
+        <message key="notification.notificationsDescription">Вие имате {$unreadCount} непрочетени уведомления и {$readCount} прочетени.<![CDATA[  <a href="{$settingsUrl}">Щракнете тук</a> за да промените своите настройки за уведомления.]]></message>
 	<message key="notification.settings">Notification Settings</message>
 	<message key="notification.settingsDescription">Select the system events that you wish to be notified about.  Unchecking an item will prevent notifications of the event from showing up in your notification feed.</message>
 	<message key="notification.subscribe">Subscribe</message>

@@ -113,9 +113,9 @@
 	<message key="common.import">Import</message>
 	<message key="common.initiate">Initiate</message>
 	<message key="common.inProgress">In progress</message>
-	<message key="common.keywords">Keywords</message>
-	<message key="common.language">Language</message>
-	<message key="common.languages">Languages</message>
+        <message key="common.keywords">Ключови думи</message>
+        <message key="common.language">Език</message>
+        <message key="common.languages">Езици</message>
 	<message key="common.manage">Manage</message>
 	<message key="common.mailingAddress">Mailing Address</message>
 	<message key="common.billingAddress">Billing address (if different)</message>
