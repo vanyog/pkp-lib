@@ -74,7 +74,7 @@
 	<message key="common.close">Close</message>
 	<message key="common.closeWindow">Close Window</message>
 	<message key="common.complete">Complete</message>
-	<message key="common.completed">Completed</message>
+        <message key="common.completed">Завършено</message>
 	<message key="common.continue">Continue</message>
 	<message key="common.country">Country</message>
 	<message key="common.create">Create</message>
@@ -113,11 +113,12 @@
 	<message key="common.import">Import</message>
 	<message key="common.initiate">Initiate</message>
 	<message key="common.inProgress">In progress</message>
-	<message key="common.keywords">Keywords</message>
-	<message key="common.language">Language</message>
-	<message key="common.languages">Languages</message>
+        <message key="common.keywords">Ключови думи</message>
+        <message key="common.language">Език</message>
+        <message key="common.languages">Езици</message>
 	<message key="common.manage">Manage</message>
 	<message key="common.mailingAddress">Mailing Address</message>
+	<message key="common.billingAddress">Billing address (if different)</message>
 	<message key="common.minute">Minute(s)</message>
 	<message key="common.modify">Modify</message>
 	<message key="common.month">Month</message>

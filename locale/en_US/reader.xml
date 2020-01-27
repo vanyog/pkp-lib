@@ -158,7 +158,7 @@
 	<message key="rt.printVersion">Print version</message>
 	<message key="rt.readingTools">Reading Tools</message>
 	<message key="rt.relatedItems">Related items</message>
-	<message key="rt.reviewPolicy">Review policy</message>
+        <message key="rt.reviewPolicy">Политика за рецензиране</message>
 	<message key="rt.search.description">Description</message>
 	<message key="rt.searches">Searches</message>
 	<message key="rt.search.order">Order</message>

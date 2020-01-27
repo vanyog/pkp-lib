@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../dtd/locale.dtd">
+
+<!--
+  * locale/en_US/installer.xml
+  *
+  * Copyright (c) 2000-2012 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings for the en_US (English) locale.
+  *
+  * $Id$
+  -->
+
+<locale name="bg_BG" full_name = "Български">
+        <message key="installer.additionalLocales">Допълнителни езици</message>
+        <message key="installer.administratorAccount">Профил на администратора</message>
+        <message key="installer.administratorAccountInstructions">Този потребителски профил ще стане администратор на сайта и ще има пълен достъп до системата. Още профили на потребители може да бъдат създадени след инсталирането.</message>
+        <message key="installer.checkNo"><![CDATA[<span class="formError">НЕ</span>]]></message>
+        <message key="installer.checkYes">Да</message>
+        <message key="installer.clientCharset">Кодова таблица на клиента</message>
+        <message key="installer.clientCharsetInstructions">Тази кодова теблица се използва за данните, които се изпращат от браузъра.</message>
+	<message key="installer.configFileError"><![CDATA[The configuration file <tt>config.inc.php</tt> does not exist or is not readable.]]></message>
+        <message key="installer.connectionCharset">Кодова теблица на връзката</message>
+        <message key="installer.connectionCharsetInstructions">Кодова таблица която се използва за данните, които се изпращат и получават от базата данни. Трябва да съвпада с кодовата таблица на клиента. Забележете, че тази възможност я има при MySQL >= 4.1.1 или PostgreSQL >= 7.1. Изберете "Не е избрана", ако Вашият сървър за база данни не удовлетворява това изискване.</message>
+	<message key="installer.contentsOfConfigFile">Contents of configuration file</message>
+        <message key="installer.createDatabase">Създаване на нова база данни</message>
+        <message key="installer.createDatabaseInstructions">За да използвате тази отметка башият сървър за бази данни трябва да поддържа създаване на бази данни от разстояние и профила на потребителя трябва да има право да създава нови бази данни. Ако инсталацията пропадне, създайте ръчно базата данни и стартирайте инсталирането отново без да е поставена тази отметка.</message>
+        <message key="installer.databaseCharset">Кодова таблица на базата данни</message>
+        <message key="installer.databaseCharsetInstructions">Кодова таблица, която де се използва за данните, съхранявани в базата данни. Забележете, че тази възможност я има при MySQL >= 4.1.1 или PostgreSQL >= 7.1. Изберете "Не е избрана", ако Вашият сървър за база данни не удовлетворява това изискване.</message>
+        <message key="installer.databaseDriver">Драйвер за база данни</message>
+        <message key="installer.databaseDriverInstructions"><![CDATA[<strong>За драйверите, показани в този списък в квадратни скоби няма заредени и инсталирани разширения на PHP и няма да работят, ако бъдат избрани.</strong><br />Тези драйвери се показват в списъка само с академична цел.]]></message>
+        <message key="installer.databaseHost">Хост</message>
+        <message key="installer.databaseHostInstructions">Оставете името на хост празно, за да се използват домейн сокети вместо протокол TCP/IP. Това не е необходимо за MySQL, който автоматично ще използва сокети, ако е въведен "localhost", но се изисква при други сърдъри за бази данни като PostgreSQL.</message>
+        <message key="installer.databaseName">Име на база данни</message>
+        <message key="installer.databasePassword">Парола</message>
+        <message key="installer.databaseSettings">Настройки за база данни</message>
+        <message key="installer.databaseUsername">Потребителско име</message>
+        <message key="installer.encryptionInstructions">SHA1 е за предпочитане, ако системата Ви го тоддържа (изисква PHP >= 4.3.0).</message>
+        <message key="installer.encryption">Алгоритъм за шифриране на пароли</message>
+        <message key="installer.filesDir">Директория за качване на файлове</message>
+        <message key="installer.fileSettings">Файлови настройки</message>
+	<message key="installer.form.clientCharsetRequired">A client character set must be selected.</message>
+	<message key="installer.form.databaseDriverRequired">A database driver must be selected.</message>
+	<message key="installer.form.databaseNameRequired">The database name is required.</message>
+	<message key="installer.form.emailRequired">A valid email address for the administrator account is required.</message>
+	<message key="installer.form.encryptionRequired">The algorithm to use for encrypting user passwords must be selected.</message>
+	<message key="installer.form.filesDirRequired">The directory to be used for storing uploaded files is required.</message>
+	<message key="installer.form.localeRequired">A locale must be selected.</message>
+	<message key="installer.form.passwordRequired">A password for the administrator account is required.</message>
+	<message key="installer.form.passwordsDoNotMatch">The administrator passwords do not match.</message>
+	<message key="installer.form.separateMultiple">Separate multiple values with commas</message>
+	<message key="installer.form.usernameAlphaNumeric">The administrator username can contain only alphanumeric characters, underscores, and hyphens, and must begin and end with an alphanumeric character.</message>
+	<message key="installer.form.usernameRequired">A username for the administrator account is required.</message>
+	<message key="installer.installationWrongPhp"><![CDATA[<br/><strong>WARNING: Your current version of PHP does not meet the minimum requirements for installation. It is recommended to upgrade to a more recent release of PHP.</strong>]]></message>
+        <message key="installer.installErrorsOccurred">Възникнага грешки по време на инсталацията</message>
+	<message key="installer.installerSQLStatements">SQL statements for installation</message>
+	<message key="installer.installFileError"><![CDATA[The installation file <tt>dbscripts/xml/install.xml</tt> does not exist or is not readable.]]></message>
+        <message key="installer.installFilesDirError">Деректорията зададена за качване на файлове не е достъпна за запис.</message>
+	<message key="installer.installParseDBFileError"><![CDATA[Error parsing the database installation file <tt>{$file}</tt>.]]></message>
+	<message key="installer.installParseEmailTemplatesFileError"><![CDATA[Error parsing the email template file <tt>{$file}</tt>.]]></message>
+	<message key="installer.locale">Locale</message>
+	<message key="installer.locale.maybeIncomplete">Marked locales may be incomplete.</message>
+        <message key="installer.localeSettings">Регионални настройки</message>
+        <message key="installer.miscSettings">Допълнителни настройки</message>
+        <message key="installer.oaiRepositoryIdInstructions"><![CDATA[Уникален идентификатор, който се използва за идентифициране на записите с метаданни, индексирани от този сайт при използване на протокол <a href="http://www.openarchives.org/" target="_blank">Open Archives Initiative</a> за събиране на метаданни.]]></message>
+        <message key="installer.oaiRepositoryId">OAI идентификатор на хранилище</message>
+	<message key="installer.publicFilesDirError">The public files directory does not exist or is not writable.</message>
+	<message key="installer.releaseNotes">Release Notes</message>
+        <message key="installer.securitySettings">Настройки за сигурност</message>
+        <message key="installer.skipFilesDir">Да не се създава необходимата директория (подходящо само при ръчно инсталиране)</message>
+</locale>
