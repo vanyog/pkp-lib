@@ -69,7 +69,7 @@
 		This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/" target="_new">Creative Commons Attribution 3.0 License</a>.
 	</div>
 	]]></message>
-	<message key="common.changesSaved">Your changes have been saved.</message>
+        <message key="common.changesSaved">Вашата промяна беше съхранена.</message>
 	<message key="common.chooseOne">Choose One</message>
         <message key="common.close">Затваряне</message>
 	<message key="common.closeWindow">Close Window</message>

@@ -48,7 +48,7 @@
 	<message key="installer.form.filesDirRequired">The directory to be used for storing uploaded files is required.</message>
 	<message key="installer.form.localeRequired">A locale must be selected.</message>
 	<message key="installer.form.passwordRequired">A password for the administrator account is required.</message>
-	<message key="installer.form.passwordsDoNotMatch">The administrator passwords do not match.</message>
+        <message key="installer.form.passwordsDoNotMatch">Повторението на администраторската парола не съвпада.</message>
 	<message key="installer.form.separateMultiple">Separate multiple values with commas</message>
 	<message key="installer.form.usernameAlphaNumeric">The administrator username can contain only alphanumeric characters, underscores, and hyphens, and must begin and end with an alphanumeric character.</message>
 	<message key="installer.form.usernameRequired">A username for the administrator account is required.</message>
