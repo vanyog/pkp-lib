@@ -16,7 +16,7 @@
         <message key="manager.announcements">Обявления</message>
 	<message key="manager.announcements.confirmDelete">Are you sure you want to permanently delete this announcement?</message>
 	<message key="manager.announcements.create">Create New Announcement</message>
-	<message key="manager.announcements.createTitle">Create</message>
+        <message key="manager.announcements.createTitle">Създаване</message>
 	<message key="manager.announcements.dateExpire">Expiry</message>
 	<message key="manager.announcements.edit">Edit Announcement</message>
         <message key="manager.announcements.editTitle">Редактиране</message>
@@ -43,7 +43,7 @@
 	<message key="manager.announcementTypes">Announcement Types</message>
 	<message key="manager.announcementTypes.confirmDelete">Warning! All announcements with this announcement type will also be deleted. Are you sure you want to continue and delete this announcement type?</message>
 	<message key="manager.announcementTypes.create">Create Announcement Type</message>
-	<message key="manager.announcementTypes.createTitle">Create</message>
+        <message key="manager.announcementTypes.createTitle">Създаване</message>
 	<message key="manager.announcementTypes.edit">Edit Announcement Type</message>
         <message key="manager.announcementTypes.editTitle">Редактиране</message>
 	<message key="manager.announcementTypes.form.saveAndCreateAnother">Save and Create Another</message>
@@ -100,7 +100,7 @@
 	<message key="manager.people.createUserSendNotify">Send the user a welcome email containing their username and password.</message>
 	<message key="manager.people.disable">Disable</message>
 	<message key="manager.people.doNotEnroll">With no role</message>
-        <message key="manager.people.editProfile">Редактиране на моя профил</message>
+        <message key="manager.people.editProfile">Редактиране на профил</message>
 	<message key="manager.people.editUser">Edit User</message>
 	<message key="manager.people.emailUsers.emailSelectedUsers">Email selected users</message>
 	<message key="manager.people.emailUsers.emailUsersEnrolledAs">Email users enrolled as</message>

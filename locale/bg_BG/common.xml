@@ -14,16 +14,16 @@
 
 <locale name="bg_BG" full_name = "Български">
         <message key="about.aboutSite">Относно сайта</message>
-	<message key="about.contact">Contact</message>
+        <message key="about.contact">Контакт</message>
         <message key="about.contact.email">Имейл</message>
         <message key="about.contact.fax">Факс</message>
         <message key="about.contact.phone">Телефон</message>
-	<message key="about.contact.principalContact">Principal Contact</message>
-	<message key="about.contact.supportContact">Support Contact</message>
-	<message key="about.other">Other</message>
+        <message key="about.contact.principalContact">Главен контакт</message>
+        <message key="about.contact.supportContact">Контакт за поддръжка</message>
+        <message key="about.other">Друго</message>
         <message key="about.people">Хора</message>
-	<message key="about.policies">Policies</message>
-	<message key="about.siteMap">Site Map</message>
+        <message key="about.policies">Политики</message>
+        <message key="about.siteMap">Карта на сайта</message>
         <message key="announcement.announcements">Обявления</message>
         <message key="announcement.announcementsHome">Обявления</message>
 	<message key="announcement.moreAnnouncements">More Announcements...</message>
@@ -77,7 +77,7 @@
         <message key="common.completed">Завършено</message>
 	<message key="common.continue">Continue</message>
         <message key="common.country">Държава</message>
-	<message key="common.create">Create</message>
+        <message key="common.create">Създаване</message>
 	<message key="common.dateCompleted">Date completed</message>
 	<message key="common.date">Дата</message>
         <message key="common.dateModified">Дата на промяна</message>
@@ -139,7 +139,7 @@
         <message key="common.order">Ред</message>
 	<message key="common.originalFileName">Original file name</message>
 	<message key="common.or">or</message>
-	<message key="common.other">Other</message>
+        <message key="common.other">Друго</message>
 	<message key="common.pageHeaderLogo.altText">Page Header Logo</message>
 	<message key="common.plugin">Plugin</message>
 	<message key="common.publisher">Publisher</message>
