@@ -41,7 +41,7 @@
 	<message key="user.login.activated">Thank you for activating your account. You may now log in using the credentials you supplied when you created your account.</message>
 	<message key="user.login.changePasswordInstructions"><![CDATA[You must choose a new password before you can log in to this site.<br /><br />Please enter your username and your current and new passwords below to change the password for your account.]]></message>
 	<message key="user.login.forgotPassword">Забравили сте паролата?</message>
-	<message key="user.login.loginError">Invalid username or password. Please try again.</message>
+        <message key="user.login.loginError">Невалидно потребителско име или парола. Моля, опитайте отново.</message>
 	<message key="user.login">Вход</message>
 	<message key="user.logIn">Вход</message>
 	<message key="user.login.lostPassword.confirmationSent">A confirmation has been sent to your email address. Please follow the instructions in the email to reset your password.</message>

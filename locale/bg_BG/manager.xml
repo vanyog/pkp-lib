@@ -69,7 +69,7 @@
 	<message key="manager.emails.form.subjectRequired">A subject is required for the email.</message>
         <message key="manager.emails">Приготвени имейли</message>
 	<message key="manager.emails.resetAll">Reset All Templates</message>
-	<message key="manager.emails.reset">Reset</message>
+        <message key="manager.emails.reset">Възстановяване</message>
 	<message key="manager.emails.resetToDefault">Reset To Default</message>
         <message key="manager.filesBrowser">Файлов браузър</message>
         <message key="manager.files.confirmDelete">Изтриване на тези деректория? Забележете, че директорията трябва да е празна преди да може да се изтрие.</message>
